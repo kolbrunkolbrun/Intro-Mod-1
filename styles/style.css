@@ -1,3 +1,5 @@
+/*=== base styles ===*/
+
 html {
   font-size: 20px;
   font-family: 'Source Code Pro', monospace;
@@ -42,3 +44,5 @@ img {
   margin: 0 auto;
   padding: 20px 20px 20px 20px;
 }
+
+/*=== base styles ends ===*/
