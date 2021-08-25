@@ -1,0 +1,44 @@
+html {
+  font-size: 20px;
+  font-family: 'Source Code Pro', monospace;
+  background-color: #fcff3c;
+}
+h1 {
+  font-size: 60px;
+  text-align: left;
+  margin: 0;
+  padding: 0px 0;
+  color: #000000;
+  text-shadow: 3px 3px 1px #fcff3c;
+}
+h2 {
+  font-size: 20px;
+  text-align: left;
+  margin: 0;
+  padding: 0px 0;
+  color: #000000;
+  text-shadow: 0px 0px 0px #fcff3c;
+}
+p {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+li {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+  width: 600px;
+  margin: 20px auto;
+  background-color: #00ff37;
+  padding: 0 20px 20px 20px;
+  border: 5px solid rgb(0, 0, 0);
+}
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 20px 20px 20px;
+}
